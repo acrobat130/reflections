@@ -1,0 +1,21 @@
+what happens when you initialize
+a repository? why do you need
+to do it?
+when i initialize a repository,
+i think it creates a folder
+for the commits to live in.
+i'm guessing this needs
+to happen so that the commits have 
+a place to be saved to.
+
+how is the staging area different
+from the working directory and
+the repository? what value do you
+think it offers?
+the staging area id different
+from the working directory
+because you take files from the
+working directory and put them into
+the staging area. you could have
+files in your staging area that
+are not in your working directory.
