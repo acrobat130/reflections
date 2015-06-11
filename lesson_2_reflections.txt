@@ -19,3 +19,47 @@ working directory and put them into
 the staging area. you could have
 files in your staging area that
 are not in your working directory.
+
+how can you use the staging area
+to make sure you have one commit
+per logical change?
+you can add only files that are
+related to that logical change.
+
+what are some situations when branches
+would be helpful in keeping your history
+organized? how would branches help?
+branches would be helpful to keep
+track when changes develop into
+completely different versions
+of what you're working on.
+
+how do the diagrams help you visualize
+the branch structure?
+the diagrams help me visualize
+the branch structure by showing
+how commits relate to one another.
+
+what is the result of merging two
+branches together? why do we represent
+it in the diagram the way we do?
+
+the result of merging the two branches
+together is that we no longer have two
+separate branches. instead we have one
+branch that contains all of the funtionality
+of both branches.
+
+what are the pros and cons of git's automatic
+merging vs. always doing merges manually?
+the pros are that you get better control over
+the branches that you're merging. the cons
+is that merging manually takes more time.
+
+
+
+
+
+
+
+
