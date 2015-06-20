@@ -1,0 +1,49 @@
+when would you want to create
+a remote repository rather than
+keeping all your work local?
+i would want to create a remote
+repository rather than keeping
+all my work local if i was on a
+different computer or in a different
+location than normal. 
+
+why might you want to always pull
+changes manually rather than having
+git automatically stay up-to-date with
+your remote repository?
+i might want to always pull changes manually
+rather than having git automatically stay
+up-to-date with my remote repository because
+multiple people could be working on the same
+section of a file at the same time. a new change
+to a repository could have also introduced a bug.
+
+describe the differences between forks, clones,
+and branches. when would you use one instead of
+another?
+the difference between forks, clones, and branches
+is that i can make a fork of someone else's repository,
+then clone that fork to get it onto my computer, and by doing that i created another branch. i would use one instead of another
+depending on the task and permissions i have.
+
+what is the benefit of having a copy of the last known
+state of the remote stored locally?
+the benefit of having a copy of the last known state
+of the remote stored locally is that you can access
+it without internet access.
+
+how would you collaborate without using git or github?
+what would be easier, and what would be harder?
+without using github, i would not have to push/pull
+anything, and in that sense is one less thing to do.
+however, if i am collaborating, then code and files would
+need to be exchanged somehow and the other ways of doing
+that would be much more time intensive.
+
+when would you want to make changes in a separate branch
+rather than directly in master? what benefits does
+each approach have?
+i would want to make changes in a separate branch
+if i was incorporating a new feature into a long section
+of code. i would want to stay working directly in master
+if it's a smaller project with fewer people collaborating.
